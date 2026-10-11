@@ -1,5 +1,5 @@
-# All unpinned blobs are from S906BXXSNGZD7
-# Vendor security patch level 2026-05-01
+# All unpinned blobs are from S906BXXSOGZH3
+# Vendor security patch level 2026-08-05
 
 # Bluetooth
 vendor/firmware/bt_vendor_rf.xml

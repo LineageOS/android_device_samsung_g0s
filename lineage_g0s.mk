@@ -15,5 +15,5 @@ PRODUCT_MODEL := SM-S906B
 PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct=g0sxxx \
     SystemName=g0sxxx \
-    BuildFingerprint=samsung/g0sxxx/g0s:12/SP1A.210812.016/S906BXXSNGZD7:user/release-keys \
-    BuildDesc="g0sxxx-user 12 SP1A.210812.016 S906BXXSNGZD7 release-keys"
+    BuildFingerprint=samsung/g0sxxx/g0s:12/SP1A.210812.016/S906BXXSOGZH3:user/release-keys \
+    BuildDesc="g0sxxx-user 12 SP1A.210812.016 S906BXXSOGZH3 release-keys"
